@@ -591,6 +591,7 @@ Aside from those listed here, many other apps and libraries can be easily be fou
 - [herdfold](https://github.com/azihsoyn/herdfold) - A book reader that lays long text out as facing pages, with notes, vertical Japanese, and an AI agent to ask.
 - [hg-tui](https://github.com/kaixinbaba/hg-tui) - A TUI for browsing and searching HelloGitHub's open-source project directory.
 - [hncli](https://github.com/pierreyoda/hncli) - Hacker News read-only TUI.
+- [hon](https://github.com/OseSem/hon) - A manga reader that searches several sources at once and shows pages right in the terminal.
 - [kanash](https://github.com/benoitlx/kanash) - Learn Kana in your terminal.
 - [keybr-tui](https://github.com/y0sif/keybr-tui) - Adaptive touch-typing practice that finds the keys slowing you down and drills them, a port of the keybr.com algorithm.
 - [leetrs](https://github.com/shadowmkj/leetrs) - A TUI for browsing, testing, and submitting LeetCode problems directly from your terminal.
